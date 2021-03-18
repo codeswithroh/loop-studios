@@ -35,7 +35,9 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo link](https://github.com/codeswithroh/loop-studios)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site url](https://loop-studios-chi.vercel.app/)
+
+> Note: Watch the website at 90% zoom or else, the positioning will seem a bit off
 
 ## My process
 
